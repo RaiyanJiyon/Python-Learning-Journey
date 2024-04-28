@@ -1,0 +1,17 @@
+f = open('Student.txt', mode='w')
+f.write("MD. Raiyan Ur Rahman\n")
+f.write("221902113\n")
+f.write('CSE\n')
+f.write('Male\n')
+f.close()
+print("File is Created")
+
+f = open('Student.txt', mode='r')
+data = f.read()
+print(data)
+f.close()
+
+f = open('Student.txt', mode='rb')
+binary = f.read()
+print(binary)
+f.close()
