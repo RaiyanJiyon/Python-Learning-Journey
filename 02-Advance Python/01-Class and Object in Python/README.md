@@ -1,3 +1,9 @@
+# Class and Object in Python
+
+
+In Python, a class is a blueprint for creating objects (instances). It defines the properties (attributes) and behaviors (methods) that the objects of that class will have. Here's a basic example:
+
+```python
 class Car:
     def __init__(self, brand, model, year):
         self.brand = brand
@@ -32,3 +38,12 @@ car2.honk()   # Output: Honk!
 print(car1.is_running)  # Output: True
 car1.stop()  # Output: Toyota Camry stopped.
 print(car1.is_running)  # Output: False
+```
+
+
+In this example, 
+- Car is a class that represents cars. 
+- It has attributes like brand, model, year, and is_running, and methods like start(), stop(), and honk(). 
+- When we create instances of the Car class (objects), we can access their attributes and call their methods.
+
+Objects encapsulate data for the class they are instantiated from and provide a way to interact with that data through methods. Classes serve as blueprints for creating objects with predefined attributes and behaviors.

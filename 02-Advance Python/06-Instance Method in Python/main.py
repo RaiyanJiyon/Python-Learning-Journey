@@ -1,9 +1,3 @@
-'''
-In Python, an instance method is a function defined within a class that operates on instances of that class. Instance methods are accessed via instances of the class and have access to the instance's attributes through the self parameter.
-
-Here's an example demonstrating how to define and use instance methods in Python:
-'''
-
 class Dog:
     def __init__(self, name, age):
         self.name = name
@@ -27,10 +21,3 @@ dog2.bark()  # Output: Max says: Woof!
 # Accessing and modifying attributes through instance methods
 dog1.celebrate_birthday()  # Output: Buddy is now 4 years old!
 dog2.celebrate_birthday()  # Output: Max is now 6 years old!
-
-
-'''
-In this example, the bark() and celebrate_birthday() methods are instance methods of the Dog class. They are defined within the class and operate on instances of the class. Inside these methods, self is used to access instance attributes like name and age.
-
-Instance methods can perform operations on instance-specific data and can modify the state of the instance. They are called using the instance name followed by the dot operator and the method name. When called, the instance itself is automatically passed as the first argument (self), allowing the method to access and modify instance attributes.
-'''
