@@ -1,3 +1,10 @@
+# Constructor with Super Method in Python
+
+In Python, you can call the constructor of the parent class from the constructor of the child class using the `super()` function. This allows you to reuse the initialization logic defined in the parent class and extend it as needed in the child class.
+
+Here's an example demonstrating how to call the parent class constructor in a child class using the `super()` function:
+
+```python
 class Parent:
     def __init__(self, parent_attr):
         self.parent_attr = parent_attr
@@ -16,3 +23,4 @@ child = Child("Parent value", "Child value")
 # Accessing attributes
 print(child.parent_attr)  # Output: Parent value
 print(child.child_attr)   # Output: Child value
+```
