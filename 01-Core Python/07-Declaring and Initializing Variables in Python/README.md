@@ -2,22 +2,35 @@
 
 In Python, declaring and initializing variables is straightforward. You don't need to explicitly declare the data type of a variable; Python infers it based on the value assigned to the variable. Here's how you declare and initialize variables in Python:
 
-```python
-# Assigning a value to a variable
-my_variable = 42
+## Assigning a value to a variable
 
-# You can assign values of any data type to a variable
+```python
+my_variable = 42
+```
+
+## You can assign values of any data type to a variable
+
+```python
 my_string = "Hello, world!"
 my_float = 3.14
 my_boolean = True
+```
 
-# Variables can be reassigned to new values of any type
+## Variables can be reassigned to new values of any type
+
+```python
 my_variable = "New value"
+```
 
-# You can also assign the result of an expression to a variable
+## You can also assign the result of an expression to a variable
+
+```python
 result = 10 * 2
+```
 
-# Variables can be used in expressions
+## Variables can be used in expressions
+
+```python
 x = 5
 y = 3
 z = x + y  # z will be 8

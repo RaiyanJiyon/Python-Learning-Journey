@@ -1,7 +1,3 @@
-'''
-In Python, bitwise operators are used to perform bitwise operations on integers. These operators treat the operands as sequences of binary digits and operate on each pair of corresponding bits. Here are the bitwise operators in Python along with examples of their usage:
-'''
-
 #Bitwise AND (&): Performs a bitwise AND operation between corresponding bits of two operands.
 result = 5 & 3  # result will be 1
 

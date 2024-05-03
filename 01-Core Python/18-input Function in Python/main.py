@@ -1,12 +1,3 @@
-'''
-In Python, the input() function is used to get input from the user via the console or terminal. It reads a line of text entered by the user and returns it as a string. Here's the syntax of the input() function:
-'''
-# input(prompt)
-
-'''
-prompt (optional): A string that is displayed to the user as a prompt before input is requested. If no prompt is provided, the function waits for the user to enter input without displaying anything.
-'''
-
 # Example of using the input() function:
 name = input("Enter your name: ")
 print("Hello,", name)
@@ -19,5 +10,3 @@ It's important to note that the input() function always returns a string, even i
 
 # Example of converting input to an integer:
 age = int(input("Enter your age: "))
-
-'''The input() function is commonly used for interactive programs, command-line utilities, and scripts that require user input. It provides a convenient way to interact with users and collect data dynamically during program execution.'''
