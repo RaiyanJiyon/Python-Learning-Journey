@@ -1,3 +1,8 @@
+# Arithmetic Operators in Python
+
+In Python, arithmetic operators are used to perform mathematical operations on numerical values. Here's a list of arithmetic operators in Python along with examples of their usage:
+
+```python
 #Addition (+): Adds two operands.
 result = 5 + 3  # result will be 8
 
@@ -21,3 +26,4 @@ result = 5 ** 3  # result will be 125
 
 # Python also supports the use of parentheses to control the order of operations, just like in standard mathematics.
 result = (5 + 3) * 2  # result will be 16
+```

@@ -30,7 +30,8 @@ Python also supports complex numbers (complex) and several other specialized dat
 x = 5
 y = 3.14
 z = "hello"
+
+# You can determine the type of a variable or expression using the built-in type() function. For example:
 print(type(x))  # Output: <class 'int'>
 print(type(y))  # Output: <class 'float'>
 print(type(z))  # Output: <class 'str'>
-# You can determine the type of a variable or expression using the built-in type() function. For example:
