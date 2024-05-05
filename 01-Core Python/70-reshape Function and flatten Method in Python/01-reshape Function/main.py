@@ -1,12 +1,3 @@
-'''
-In Python, NumPy provides the reshape() function and the flatten() method for reshaping and flattening arrays, respectively.
-'''
-
-'''
-Reshape Function (reshape()):
-The reshape() function in NumPy is used to change the shape of an array without changing its data. It returns a new view of the array with the specified shape.
-'''
-
 # Here's how you can use the reshape() function:
 import numpy as np
 

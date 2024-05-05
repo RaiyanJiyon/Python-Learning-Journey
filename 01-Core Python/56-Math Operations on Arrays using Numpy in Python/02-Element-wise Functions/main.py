@@ -1,8 +1,3 @@
-'''
-Element-wise Functions:
-NumPy provides many mathematical functions that can be applied element-wise to arrays, such as np.sin(), np.cos(), np.exp(), np.sqrt(), etc.
-'''
-
 import numpy as np
 
 # Create an array

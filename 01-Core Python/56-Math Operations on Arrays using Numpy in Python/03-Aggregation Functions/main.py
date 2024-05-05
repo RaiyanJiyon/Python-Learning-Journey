@@ -1,8 +1,3 @@
-'''
-Aggregation Functions:
-NumPy provides functions to compute aggregate statistics of arrays, such as np.sum(), np.mean(), np.max(), np.min(), etc.
-'''
-
 import numpy as np
 
 # Create an array

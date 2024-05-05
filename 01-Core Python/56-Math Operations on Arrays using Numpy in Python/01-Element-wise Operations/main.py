@@ -1,13 +1,3 @@
-'''
-ChatGPT
-NumPy provides a wide range of mathematical functions and operations that can be performed directly on arrays. Here are some common mathematical operations you can perform on arrays using NumPy:
-'''
-
-'''
-Element-wise Operations:
-You can perform arithmetic operations (addition, subtraction, multiplication, division, etc.) element-wise on arrays. NumPy will apply the operation to each corresponding pair of elements in the arrays.
-'''
-
 import numpy as np
 
 # Create two arrays

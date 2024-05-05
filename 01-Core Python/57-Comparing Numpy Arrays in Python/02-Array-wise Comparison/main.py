@@ -1,8 +1,3 @@
-'''
-Array-wise Comparison:
-You can compare entire arrays using NumPy functions such as np.array_equal() or np.all(). The np.array_equal() function returns True if two arrays have the same shape and elements, while np.all() returns True if all elements in the boolean array are True.
-'''
-
 import numpy as np
 
 # Create two arrays

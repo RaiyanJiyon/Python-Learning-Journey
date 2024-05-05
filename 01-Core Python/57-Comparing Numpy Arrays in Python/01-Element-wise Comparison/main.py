@@ -1,12 +1,3 @@
-'''
-You can compare NumPy arrays in Python using various comparison operators and NumPy functions. Here's how you can compare NumPy arrays:
-'''
-
-'''
-Element-wise Comparison:
-You can compare elements of two arrays element-wise using comparison operators (<, <=, ==, !=, >, >=). The result of the comparison is a boolean array indicating whether the condition is true for each corresponding pair of elements.
-'''
-
 import numpy as np
 
 # Create two arrays
