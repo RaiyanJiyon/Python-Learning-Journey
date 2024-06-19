@@ -92,7 +92,7 @@ even_rows = arr[::2, :]
 print("\nEven rows:")
 print(even_rows)
 ```
-
+g
 Output:
 ```
 Even rows:
