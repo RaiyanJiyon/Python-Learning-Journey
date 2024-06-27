@@ -1,8 +1,3 @@
-'''
-You can get dictionary input from the user in Python using various methods. Here's one common approach using the input() function:
-'''
-
-
 # Prompt the user to enter key-value pairs separated by commas
 user_input = input("Enter key-value pairs separated by comma (key1:value1, key2:value2, ...): ")
 
