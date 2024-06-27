@@ -1,3 +1,5 @@
+# The len function in Python
+
 The `len` function in Python is used to return the number of items in an object. It is a built-in function that can be used with a variety of data types, including strings, lists, tuples, sets, dictionaries, and more. The `len` function is straightforward and only takes a single argument.
 
 ### Syntax

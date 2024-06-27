@@ -1,3 +1,5 @@
+# The min and max functions
+
 The `min` and `max` functions in Python are built-in functions used to find the smallest and largest elements in an iterable or among multiple arguments. They can be used with lists, tuples, strings, and other iterable types, as well as with multiple individual arguments.
 
 ### Syntax

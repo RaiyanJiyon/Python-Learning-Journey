@@ -1,3 +1,5 @@
+# sorted Function in Python
+
 The `sorted` function in Python is used to sort an iterable (e.g., list, tuple, string, etc.) and return a new sorted list. It doesn't modify the original iterable but creates a new one.
 
 ### Syntax
