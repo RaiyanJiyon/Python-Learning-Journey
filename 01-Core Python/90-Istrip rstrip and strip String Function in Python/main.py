@@ -1,7 +1,3 @@
-'''
-In Python, the strip(), lstrip(), and rstrip() methods are used to remove leading and trailing whitespace characters (spaces, tabs, newlines) from a string. Here's how each method works:
-'''
-
 # strip(): This method removes leading and trailing whitespace characters from both ends of the string.
 
 string = "   Hello, World!   "
@@ -20,5 +16,3 @@ These methods are useful for cleaning up input strings, especially when working 
 '''
 string = "###Hello, World!###"
 print(string.strip("#"))  # Output: "Hello, World!"
-
-'''This removes leading and trailing # characters from the string.'''
